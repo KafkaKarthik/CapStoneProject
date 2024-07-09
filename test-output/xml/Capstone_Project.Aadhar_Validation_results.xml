@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Aadhar Details Validation"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.716">
+    <properties></properties>
+
+
+
+            <testcase
+                name="insert_records"
+                time="0.700"
+                classname="Capstone_Project.Aadhar_Validation">
+            </testcase>
+            <testcase
+                name="aadhar_finder"
+                time="0.016"
+                classname="Capstone_Project.Aadhar_Validation">
+            </testcase>
+</testsuite>
